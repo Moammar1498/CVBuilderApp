@@ -13,6 +13,7 @@ Welcome to the Flutter CV builder App, a mobile application that allows users to
   - [Installation](#installation)
 - [Project Structure](#project-structure)
 - [Usage](#usage)
+- [Limitations](#limitations)
 - [Demo](#Demo)
 
 ## Introduction

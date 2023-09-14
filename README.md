@@ -1,4 +1,4 @@
-# cv_builder
+# CV Builder
 
 HNGx internship task-2
 

@@ -95,9 +95,8 @@ The project is structured as follows:
 
 ## Demo
  check out the application virtual demo here: https://appetize.io/app/22p23gzaby47tgpejyuzjzmed4?device=pixel4xl&osVersion=10.0&scale=100
- ![2023-09-15 02-23-56 High Res Screenshot](https://github.![2023-09-15 02-24-25 High Res Screenshot](https://github.com/Moammar1498/CVBuilderApp/assets/125560888/74cee9e3-d807-4f36-bfce-1fa99248dad0)
-com/Moammar1498/CVBuilderApp/assets/125560888/18ba666f-2f15-4cee-832b-f8d52bdcfa65)
-
+ ![2023-09-15 02-23-56 High Res Screenshot](https://github.com/Moammar1498/CVBuilderApp/assets/125560888/4de3744d-e28c-4564-b77c-3badf632e73f)
+ ![2023-09-15 02-24-25 High Res Screenshot](https://github.com/Moammar1498/CVBuilderApp/assets/125560888/3ca84d3c-91df-4932-a7d1-ab3da6779dca)
 
 
 Thank you for using the Flutter CV Viewer App! We hope this application helps you manage your CV effectively. If you have any questions or encounter any issues, please don't hesitate to contact me: moammar1998@gmail.com.

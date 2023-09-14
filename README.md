@@ -92,7 +92,7 @@ The project is structured as follows:
 3. Save your changes to keep your CV up to date.
 
 ## limitations
-- The data persistent is still not available in the app due to some limitations.
+- The data persistent is still not available in the app due to some limitations. it means it resets the content as app reinstall or relaunched after being killed.
 
 ## Demo
  check out the application virtual demo here: https://appetize.io/app/22p23gzaby47tgpejyuzjzmed4?device=pixel4xl&osVersion=10.0&scale=100
